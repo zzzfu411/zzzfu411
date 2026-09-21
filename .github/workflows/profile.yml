@@ -8,6 +8,7 @@ on:
     branches: [main]
     paths:
       - .github/workflows/profile.yml
+      - .github/scripts/finalize-cards.py
       - config/profile-3d.json
 
 permissions:
@@ -72,6 +73,7 @@ jobs:
 
       - name: Collect and validate generated images
         run: |
+          python3 .github/scripts/finalize-cards.py dist
           cp profile-3d-contrib/city-light.svg profile-3d-contrib/city-dark.svg dist/
           python3 - <<'PY'
           from pathlib import Path
