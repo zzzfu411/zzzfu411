@@ -18,19 +18,6 @@
   <img alt="Docker" src="https://raw.githubusercontent.com/zzzfu411/zzzfu411/main/assets/icons/docker.svg" width="48" height="48" />
 </p>
 
-### GitHub activity
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zzzfu411/zzzfu411/profile-assets/stats-dark.svg" />
-    <img alt="zzzfu411's public GitHub statistics" src="https://raw.githubusercontent.com/zzzfu411/zzzfu411/profile-assets/stats-light.svg" height="210" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zzzfu411/zzzfu411/profile-assets/languages-dark.svg" />
-    <img alt="Languages used in zzzfu411's public repositories" src="https://raw.githubusercontent.com/zzzfu411/zzzfu411/profile-assets/languages-light.svg" height="210" />
-  </picture>
-</p>
-
 ### Contributions in 3D
 
 <picture>
