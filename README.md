@@ -18,14 +18,10 @@
   <img alt="Docker" src="https://raw.githubusercontent.com/zzzfu411/zzzfu411/main/assets/icons/docker.svg" width="48" height="48" />
 </p>
 
-### Contributions in 3D
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zzzfu411/zzzfu411/profile-assets/city-dark.svg" />
   <img alt="A blue 3D view of zzzfu411's GitHub contributions" src="https://raw.githubusercontent.com/zzzfu411/zzzfu411/profile-assets/city-light.svg" width="850" />
 </picture>
-
-### Contribution snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zzzfu411/zzzfu411/output/snake-dark.svg" />
