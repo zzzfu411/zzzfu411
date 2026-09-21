@@ -1,15 +1,15 @@
 
       <svg
-        width="304"
-        height="195"
-        viewBox="0 0 304 195"
+        width="360"
+        height="207"
+        viewBox="0 0 360 207"
         fill="none"
         xmlns="http://www.w3.org/2000/svg"
         role="img"
         aria-labelledby="descId"
       >
         <title id="titleId">fyz&#39;s GitHub Stats, Rank: B-</title>
-        <desc id="descId">Total Stars Earned: 3, Total Commits  (last year) : 632, Total PRs: 45, Total Issues: 2, Contributed to (last year): 2</desc>
+        <desc id="descId">Total Stars Earned: 3, Total Commits  (last year) : 633, Total PRs: 45, Total Issues: 2, Contributed to (last year): 2</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 178.17843954521857;
+        stroke-dashoffset: 178.15833157136925;
       }
     }
   
@@ -99,7 +99,7 @@
         }
       }
     
-          
+          * { animation-duration: 0s !important; animation-delay: 0s !important; }
         </style>
 
         
@@ -117,7 +117,7 @@
           rx="4.5"
           height="99%"
           stroke="#d0d7de"
-          width="303"
+          width="359"
           fill="#ffffff"
           stroke-opacity="1"
         />
@@ -160,7 +160,7 @@
         data-testid="stars"
       >3</text>
     </g>
-  </g><g transform="translate(0, 25)">
+  </g><g transform="translate(0, 27)">
     <g class="stagger" style="animation-delay: 600ms" transform="translate(25, 0)">
       
     <svg data-testid="icon" class="icon" viewBox="0 0 16 16" version="1.1" width="16" height="16">
@@ -173,9 +173,9 @@
         x="224.01"
         y="12.5"
         data-testid="commits"
-      >632</text>
+      >633</text>
     </g>
-  </g><g transform="translate(0, 50)">
+  </g><g transform="translate(0, 54)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
       
     <svg data-testid="icon" class="icon" viewBox="0 0 16 16" version="1.1" width="16" height="16">
@@ -190,7 +190,7 @@
         data-testid="prs"
       >45</text>
     </g>
-  </g><g transform="translate(0, 75)">
+  </g><g transform="translate(0, 81)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
       
     <svg data-testid="icon" class="icon" viewBox="0 0 16 16" version="1.1" width="16" height="16">
@@ -205,7 +205,7 @@
         data-testid="issues"
       >2</text>
     </g>
-  </g><g transform="translate(0, 100)">
+  </g><g transform="translate(0, 108)">
     <g class="stagger" style="animation-delay: 1050ms" transform="translate(25, 0)">
       
     <svg data-testid="icon" class="icon" viewBox="0 0 16 16" version="1.1" width="16" height="16">
