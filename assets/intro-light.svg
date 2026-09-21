@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="76" viewBox="0 0 700 76" role="img" aria-labelledby="title desc">
+  <title id="title">Hi, I'm zzzfu411</title>
+  <desc id="desc">A blue typing greeting for zzzfu411's GitHub profile.</desc>
+  <style>
+    .window { width: 0; animation: typing 8s steps(16, end) infinite; }
+    .caret { animation: travel 8s steps(16, end) infinite, blink .8s step-end infinite; }
+    @keyframes typing { 0%, 86%, 100% { width: 0; } 32%, 70% { width: 288px; } }
+    @keyframes travel { 0%, 86%, 100% { transform: translateX(0); } 32%, 70% { transform: translateX(288px); } }
+    @keyframes blink { 0%, 100% { opacity: 1; } 50% { opacity: 0; } }
+    @media (prefers-reduced-motion: reduce) {
+      .window { width: 288px; animation: none; }
+      .caret { display: none; animation: none; }
+    }
+  </style>
+  <defs><clipPath id="typing"><rect class="window" x="0" y="0" width="288" height="60" /></clipPath></defs>
+  <g transform="translate(206 5)" fill="#1f6feb">
+    <g clip-path="url(#typing)">
+      <text x="0" y="42" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="30" font-weight="600" textLength="288" lengthAdjust="spacingAndGlyphs">Hi, I'm zzzfu411</text>
+    </g>
+    <rect class="caret" x="3" y="14" width="2" height="34" rx="1" />
+  </g>
+</svg>
